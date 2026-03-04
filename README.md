@@ -4,6 +4,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
+I am a 19-year-old passionate about web development. I always enjoy learning new technologies and improving every day. I am currently studying, but I am always developing my own web projects to gain experience and demonstrate what I am capable of.
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
