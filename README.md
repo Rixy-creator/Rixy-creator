@@ -6,7 +6,7 @@
 
 I am a 19-year-old passionate about web development. I always enjoy learning new technologies and improving every day. I am currently studying, but I am always developing my own web projects to gain experience and demonstrate what I am capable of.
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+I am an SMR student and am currently specializing in web development. I am currently finishing my master’s degree. I am expanding my knowledge in both front-end and back-end development. I love learning and creating new, productive, innovative, and creative things.
 - 🌱 I’m currently learning ...
   - PHP
   - Frameworks
