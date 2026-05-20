@@ -8,7 +8,6 @@ I am a 19-year-old passionate about web development. I always enjoy learning new
 
 I am an SMR student and am currently specializing in web development. I am currently finishing my master’s degree. I am expanding my knowledge in both front-end and back-end development. I love learning and creating new, productive, innovative, and creative things.
 - 🌱 I’m currently learning ...
-  - PHP
   - Frameworks
 - 🐣 I am looking forward to finishing my studies soon so I can enter the workforce and gain more experience as a front-end developer.
 - Apart from technology, 💜I love giving talks on all kinds of topics, 🎮 playing video games, 🎵 listening to music, ⭐ watching anime, and 📖 reading manga or books.
