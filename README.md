@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a 19-year-old passionate about web development. I always enjoy learning new technologies and improving every day. I am currently studying, but I am always developing my own web projects to gain experience and demonstrate what I am capable of.
+I am a 20-year-old passionate about web development. I always enjoy learning new technologies and improving every day. I am currently studying, but I am always developing my own web projects to gain experience and demonstrate what I am capable of.
 
 I am an SMR student and am currently specializing in web development. I am currently finishing my master’s degree. I am expanding my knowledge in both front-end and back-end development. I love learning and creating new, productive, innovative, and creative things.
 - 🌱 I’m currently learning ...
